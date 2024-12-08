@@ -28,6 +28,7 @@ Execução do Notebook
 Abra o arquivo plotly_insights.ipynb em um ambiente Jupyter ou compatível. Execute as células em sequência para realizar a análise.
 
 Execução do Script
+
 Execute o arquivo plotly_insights.py em seu terminal ou IDE de preferência. Ele processará os dados e exibirá os resultados diretamente.
 
 Estrutura dos Dados
