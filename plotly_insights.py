@@ -6,6 +6,7 @@ tabela = pd.read_csv("cancelamentos_sample.csv")
 # Remover a coluna "CustomerID" que não é relevante para a análise.
 tabela = tabela.drop(columns="CustomerID")
 print(tabela)
+
 # Exibir informações sobre a tabela, como tipos de dados e valores ausentes.
 print(tabela.info())
 
@@ -28,9 +29,10 @@ import plotly.express as px
 for coluna in tabela.columns:
     grafico = px.histogram(tabela, x=coluna, color="cancelou")
     grafico.show()  # Os gráficos serão abertos no navegador.
-    
+
 
     # Insights obtidos a partir da análise inicial:
+    
 # 1. Clientes que ligaram mais de 4 vezes para o call center cancelaram.
 #    Proposta: Implementar um processo interno para resolver problemas em até 2 ligações.
 # 2. Clientes com mais de 20 dias de atraso no pagamento cancelaram.
@@ -50,4 +52,8 @@ tabela = tabela[filtro]
 # Resolvendo o problema de contratos mensais (excluindo contratos mensais).
 filtro = tabela["duracao_contrato"] != "Monthly"
 tabela = tabela[filtro]
+
+# Calcular a nova proporção de cancelamentos após aplicar os filtros
+print(tabela["cancelou"].value_counts(normalize=True).map("{:.1%}".format))
+
 
