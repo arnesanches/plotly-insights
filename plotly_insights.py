@@ -13,3 +13,12 @@ print(tabela.info())
 tabela = tabela.dropna()
 print(tabela.info())
 
+# Contar o número de clientes que cancelaram e que não cancelaram
+print(tabela["cancelou"].value_counts())
+
+# Calcular a proporção de cancelamentos em relação ao total
+print(tabela["cancelou"].value_counts(normalize=True))
+
+# Formatar a proporção como porcentagem
+print(tabela["cancelou"].value_counts(normalize=True).map("{:.2%}".format))
+
