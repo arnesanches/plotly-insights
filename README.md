@@ -15,21 +15,12 @@ O script é prático para execuções rápidas e integradas a fluxos de trabalho
 
 Como Executar o Código
 
-Pré-requisitos
-Certifique-se de ter o Python instalado em sua máquina, além das bibliotecas utilizadas no projeto, como pandas e plotly.
+Pré-requisitos: Certifique-se de ter o Python instalado em sua máquina, além das bibliotecas utilizadas no projeto, como pandas e plotly.
 
-Execução do Notebook
+Execução do Notebook: Abra o arquivo plotly_insights.ipynb em um ambiente Jupyter ou compatível. Execute as células em sequência para realizar a análise.
 
-Abra o arquivo plotly_insights.ipynb em um ambiente Jupyter ou compatível. Execute as células em sequência para realizar a análise.
+Execução do Script: Execute o arquivo plotly_insights.py em seu terminal ou IDE de preferência. Ele processará os dados e exibirá os resultados diretamente.
 
-Execução do Script
-
-Execute o arquivo plotly_insights.py em seu terminal ou IDE de preferência. Ele processará os dados e exibirá os resultados diretamente.
-
-Estrutura dos Dados
-
-O projeto utiliza um arquivo CSV chamado cancelamentos_sample.csv, que contém os dados necessários para a análise. Certifique-se de que este arquivo esteja na mesma pasta que os códigos para garantir o funcionamento correto.
-
-Notas Finais
+Estrutura dos Dados: O projeto utiliza um arquivo CSV chamado cancelamentos_sample.csv, que contém os dados necessários para a análise. Certifique-se de que este arquivo esteja na mesma pasta que os códigos para garantir o funcionamento correto.
 
 Este projeto demonstra como análises de dados podem ser usadas para obter insights acionáveis. Os arquivos fornecem flexibilidade para explorar os dados interativamente ou rodar as análises rapidamente.
