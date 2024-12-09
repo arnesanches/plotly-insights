@@ -8,10 +8,7 @@ plotly_insights.ipynb: Um notebook interativo desenvolvido para exploração det
 
 plotly_insights.py: Um script Python que reproduz as análises do notebook, mas de forma mais compacta e sem interatividade. Os gráficos gerados pelo script serão abertos automaticamente no navegador web, pois utilizam a biblioteca Plotly.
 
-Por que dois arquivos? Os dois arquivos complementam-se:
-
-O notebook é útil para estudo e apresentações.
-O script é prático para execuções rápidas e integradas a fluxos de trabalho.
+Por que dois arquivos? Os dois arquivos complementam-se: O notebook é útil para estudo e apresentações. O script é prático para execuções rápidas e integradas a fluxos de trabalho.
 
 Como Executar o Código
 
