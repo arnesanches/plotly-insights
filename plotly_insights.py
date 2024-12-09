@@ -22,3 +22,10 @@ print(tabela["cancelou"].value_counts(normalize=True))
 # Formatar a proporção como porcentagem
 print(tabela["cancelou"].value_counts(normalize=True).map("{:.2%}".format))
 
+import plotly.express as px
+
+# Gerar gráficos interativos para cada coluna da tabela
+for coluna in tabela.columns:
+    grafico = px.histogram(tabela, x=coluna, color="cancelou")
+    grafico.show()  # Os gráficos serão abertos no navegador
+
