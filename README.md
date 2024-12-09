@@ -4,16 +4,11 @@ Este projeto realiza a análise de dados de cancelamento de clientes, gerando vi
 
 Sobre os Arquivos
 
-plotly_insights.ipynb:
-Um notebook interativo desenvolvido para exploração detalhada dos dados. Ele permite acompanhar a análise passo a passo, com explicações embutidas e gráficos interativos.
+plotly_insights.ipynb: Um notebook interativo desenvolvido para exploração detalhada dos dados. Ele permite acompanhar a análise passo a passo, com explicações embutidas e gráficos interativos.
 
-plotly_insights.py:
+plotly_insights.py: Um script Python que reproduz as análises do notebook, mas de forma mais compacta e sem interatividade. Os gráficos gerados pelo script serão abertos automaticamente no navegador web, pois utilizam a biblioteca Plotly.
 
-Um script Python que reproduz as análises do notebook, mas de forma mais compacta e sem interatividade. Os gráficos gerados pelo script serão abertos automaticamente no navegador web, pois utilizam a biblioteca Plotly.
-
-Por que dois arquivos?
-
-Os dois arquivos complementam-se:
+Por que dois arquivos? Os dois arquivos complementam-se:
 
 O notebook é útil para estudo e apresentações.
 O script é prático para execuções rápidas e integradas a fluxos de trabalho.
