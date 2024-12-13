@@ -24,6 +24,7 @@ Data Structure: The project uses a CSV file named cancelamentos_sample.csv, whic
 
 This project demonstrates how data analysis can be used to generate actionable insights. The provided files offer flexibility to explore the data interactively or quickly run the analyses.
 
+---
 
 ### Português
 
