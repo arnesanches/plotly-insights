@@ -1,10 +1,10 @@
-English / Português
+### English 
 
-Plotly Insights
+# Plotly Insights
 
 This project performs data analysis on customer churn, generating interactive visualizations to identify patterns and factors associated with cancellations.
 
-About the Files
+#### About the Files
 
 plotly_insights.ipynb: An interactive notebook developed for detailed data exploration. It allows you to follow the analysis step by step, with embedded explanations and interactive charts.
 
@@ -12,7 +12,7 @@ plotly_insights.py: A Python script that reproduces the analyses from the notebo
 
 Why Two Files? The two files complement each other: The notebook is useful for study and presentations. The script is practical for quick executions and integration into workflows.
 
-How to Run the Code
+#### How to Run the Code
 
 Prerequisites: Ensure that Python is installed on your machine, along with the libraries used in the project, such as pandas and plotly.
 
@@ -25,12 +25,13 @@ Data Structure: The project uses a CSV file named cancelamentos_sample.csv, whic
 This project demonstrates how data analysis can be used to generate actionable insights. The provided files offer flexibility to explore the data interactively or quickly run the analyses.
 
 
+### Português
 
-Plotly Insights
+# Plotly Insights
 
 Este projeto realiza a análise de dados de cancelamento de clientes, gerando visualizações interativas para identificar padrões e fatores associados a cancelamentos.
 
-Sobre os Arquivos
+#### Sobre os Arquivos
 
 plotly_insights.ipynb: Um notebook interativo desenvolvido para exploração detalhada dos dados. Ele permite acompanhar a análise passo a passo, com explicações embutidas e gráficos interativos.
 
@@ -38,7 +39,7 @@ plotly_insights.py: Um script Python que reproduz as análises do notebook, mas 
 
 Por que dois arquivos? Os dois arquivos complementam-se: O notebook é útil para estudo e apresentações. O script é prático para execuções rápidas e integradas a fluxos de trabalho.
 
-Como Executar o Código
+#### Como Executar o Código
 
 Pré-requisitos: Certifique-se de ter o Python instalado em sua máquina, além das bibliotecas utilizadas no projeto, como pandas e plotly.
 
