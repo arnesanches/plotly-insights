@@ -78,6 +78,3 @@ O projeto utiliza um arquivo CSV chamado `cancelamentos_sample.csv`, que contém
 ---
 
 Este projeto demonstra como análises de dados podem ser usadas para obter insights acionáveis. Os arquivos fornecem flexibilidade para explorar os dados interativamente ou rodar as análises rapidamente.
-sample.csv, que contém os dados necessários para a análise. Certifique-se de que este arquivo esteja na mesma pasta que os códigos para garantir o funcionamento correto.
-
-Este projeto demonstra como análises de dados podem ser usadas para obter insights acionáveis. Os arquivos fornecem flexibilidade para explorar os dados interativamente ou rodar as análises rapidamente.
