@@ -2,7 +2,7 @@
 
 # Plotly Insights
 
-This project performs customer churn data analysis, generating interactive visualizations to identify patterns and factors associated with churn.
+This project uses the Plotly library to implement a comprehensive churn analysis solution, generating interactive visualizations that reveal patterns, trends, and factors associated with customer cancellations. Plotly's interactivity allows users to explore data in detail, apply filters, and gain valuable insights to formulate effective customer retention strategies and reduce churn rates.
 
 ## About the Files
 
@@ -47,7 +47,7 @@ This project is licensed under the MIT License.
 
 # Plotly Insights
 
-Este projeto realiza a análise de dados de cancelamento de clientes, gerando visualizações interativas para identificar padrões e fatores associados a cancelamentos.
+Este projeto utiliza a biblioteca Plotly para implementar uma solução completa de análise de churn (cancelamento de clientes), gerando visualizações interativas que revelam padrões, tendências e fatores associados ao cancelamento. A interatividade do Plotly permite aos usuários explorar os dados em detalhes, aplicar filtros e obter insights valiosos para formular estratégias eficazes de retenção de clientes, reduzindo a taxa de cancelamento.
 
 ## Sobre os Arquivos
 
