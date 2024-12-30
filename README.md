@@ -21,7 +21,7 @@ The two files complement each other:
 ## How to Run the Code
 
 1. **Prerequisites**:  
-   Ensure Python is installed on your machine, along with the libraries used in the project, such as `pandas` and `plotly`. You can download the latest version of Python at [https://www.python.org/downloads/](https://www.python.org/downloads/)
+   Ensure Python is installed on your machine, along with the libraries used in the project, such as `pandas` and `plotly`. You can download the latest version of Python at [https://www.python.org/downloads/](https://www.python.org/downloads/).
 
 2. **Running the Notebook**:  
    Open the `plotly_insights.ipynb` file in a Jupyter-compatible environment. Execute the cells in sequence to perform the analysis.
