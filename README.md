@@ -21,7 +21,7 @@ The two files complement each other:
 ## How to Run the Code
 
 1. **Prerequisites**:  
-   Ensure Python is installed on your machine, along with the libraries used in the project, such as `pandas` and `plotly`.
+   Ensure Python is installed on your machine, along with the libraries used in the project, such as `pandas` and `plotly`. You can download the latest version of Python at [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 2. **Running the Notebook**:  
    Open the `plotly_insights.ipynb` file in a Jupyter-compatible environment. Execute the cells in sequence to perform the analysis.
@@ -33,10 +33,13 @@ The two files complement each other:
 
 The project uses a CSV file named `cancelamentos_sample.csv`, which contains the data required for the analysis. Make sure this file is in the same directory as the code files to ensure proper functionality.
 
----
+## Contributions
 
-This project demonstrates how data analysis can be used to gain actionable insights. The files provide flexibility for exploring the data interactively or running the analyses quickly.
+Contributions are welcome! Feel free to open issues or pull requests in this repository.
 
+## License
+
+This project is licensed under the MIT License.
 
 ---
 
@@ -63,7 +66,7 @@ Os dois arquivos complementam-se:
 ## Como Executar o Código
 
 1. **Pré-requisitos**:  
-   Certifique-se de ter o Python instalado em sua máquina, além das bibliotecas utilizadas no projeto, como `pandas` e `plotly`.
+   Certifique-se de ter o Python instalado em sua máquina, além das bibliotecas utilizadas no projeto, como `pandas` e `plotly`. Você pode baixar a versão mais recente do Python em [https://www.python.org/downloads/](https://www.python.org/downloads/).
 
 2. **Execução do Notebook**:  
    Abra o arquivo `plotly_insights.ipynb` em um ambiente Jupyter ou compatível. Execute as células em sequência para realizar a análise.
@@ -75,6 +78,11 @@ Os dois arquivos complementam-se:
 
 O projeto utiliza um arquivo CSV chamado `cancelamentos_sample.csv`, que contém os dados necessários para a análise. Certifique-se de que este arquivo esteja na mesma pasta que os códigos para garantir o funcionamento correto.
 
----
+## Contribuições
 
-Este projeto demonstra como análises de dados podem ser usadas para obter insights acionáveis. Os arquivos fornecem flexibilidade para explorar os dados interativamente ou rodar as análises rapidamente.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests neste repositório.
+
+## Licença
+
+Este projeto está licenciado sob a MIT License.
+
