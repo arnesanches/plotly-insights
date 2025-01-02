@@ -1,3 +1,7 @@
+### Project Demonstration / Demonstração do Projeto
+
+![Project Demonstration / Demonstração do Projeto](https://github.com/arnesanches/plotly-insights/blob/main/Anima%C3%A7%C3%A3o.gif?raw=true)
+
 #### English 
 
 # Plotly Insights
@@ -21,8 +25,12 @@ The two files complement each other:
 ## How to Run the Code
 
 1. **Prerequisites**:  
-   Ensure Python is installed on your machine, along with the libraries used in the project, such as `pandas` and `plotly`. You can download the latest version of Python at [https://www.python.org/downloads/](https://www.python.org/downloads/).
-
+   Ensure Python is installed on your machine, along with the libraries used in the project, such as `pandas` and `plotly`. 
+-  You can download the latest version of Python at [https://www.python.org/downloads/](https://www.python.org/downloads/).
+-  After installing Python, open the terminal or command prompt and run the following commands to install the required libraries:
+    ```bash
+    pip install pandas plotly
+    ```
 2. **Running the Notebook**:  
    Open the `plotly_insights.ipynb` file in a Jupyter-compatible environment. Execute the cells in sequence to perform the analysis.
 
@@ -40,6 +48,8 @@ Contributions are welcome! Feel free to open issues or pull requests in this rep
 ## License
 
 This project is licensed under the MIT License.
+
+##
 
 ---
 
@@ -66,8 +76,12 @@ Os dois arquivos complementam-se:
 ## Como Executar o Código
 
 1. **Pré-requisitos**:  
-   Certifique-se de ter o Python instalado em sua máquina, além das bibliotecas utilizadas no projeto, como `pandas` e `plotly`. Você pode baixar a versão mais recente do Python em [https://www.python.org/downloads/](https://www.python.org/downloads/).
-
+   Certifique-se de ter o Python instalado em sua máquina, além das bibliotecas utilizadas no projeto, como `pandas` e `plotly`. 
+-  Você pode baixar a versão mais recente do Python em [https://www.python.org/downloads/](https://www.python.org/downloads/).
+-  Após instalar o Python, abra o terminal ou prompt de comando e execute os comandos abaixo para instalar as bibliotecas necessárias:
+    ```bash
+    pip install pandas plotly
+    ```
 2. **Execução do Notebook**:  
    Abra o arquivo `plotly_insights.ipynb` em um ambiente Jupyter ou compatível. Execute as células em sequência para realizar a análise.
 
@@ -86,3 +100,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 Este projeto está licenciado sob a MIT License.
 
+##
+
+---
